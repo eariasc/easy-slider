@@ -10,6 +10,12 @@ Slider based on jQuery, ready to use in all of your websites
 You need to have JQuery latest version on your website/project.
 Don't forget to add the easy-slider.css as well.
 
+```
+    <link rel="stylesheet" href="./css/easy-slider.css">
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="./js/easy-slider.js"></script>
+```
 
 ### How to use it
 
@@ -55,9 +61,6 @@ There are only 2 effects right now
  ```
  slide
  ```
-
-Be free to modify and/or add new effect as you need.
-
 
 
 
