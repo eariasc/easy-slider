@@ -1,3 +1,6 @@
+# Demo
+[easy-slider](https://easy-slider-eariasc.netlify.com/)
+
 # easy-slider
 
 Slider based on jQuery, ready to use in all of your websites
